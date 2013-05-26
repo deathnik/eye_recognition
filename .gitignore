@@ -11,3 +11,19 @@
 *.lai
 *.la
 *.a
+
+#VS studio folders
+x64/*
+Debug/*
+ipch/*
+Eye_recognition/Debug/*
+Eye_recognition/x64/*
+
+
+#VS files
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj
+*.vcxproj.*
+*.props
